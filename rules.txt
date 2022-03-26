@@ -1,7 +1,12 @@
+DESCRIPTION
+
 Battle Royal is a game for 2, 3 or 4 players and consists of a playing board, 13 cards and 54 playing pieces or Pawns (15 Black, 15 White, 12 Red and 12 Green), which represent the attacking and defending forces. Cards comprise 3 sets of 4 cards, each set numbered 1 to 4, and one Zero Card. The board is designed as the pictorial map of an imaginary terrain, but the place names are of towns and features famous during the medieval Wars of the Roses, which gives this original and exciting game its name. 
 The board is also marked with squares of which some are numbered and others not; the reason for this is explained in the rules.
 The method of moving the Pawns of the opposing forces, though the essence of simplicity, has been most cleverly evolved from the tactics of the medieval battle and, as you will discover, is remarkably true to the logical idea of the game.
 
+OBJECT
+
+The object of the game is to capture the enemy (your opponent’s) capital city of cities.
 
 METHOD OF PLAY
 
@@ -18,7 +23,8 @@ The basic rule is that Pawns must always be placed on a square adjacent (includi
 (a) UNTIL ALL THE PAWNS IN RESERVE HAVE BEEN BROUGHT INTO PLAY
 For each point shown on his card a player may take a Pawn from reserve and place it on an unoccupied numbered square on the board.
 Pawns may also be placed on squares which are not numbered, but more than one point is necessary to enable this to be done. It will be seen that the unnumbered squares cover mountains, forests and similar obstacles to an advance and the number of points necessary to place a Pawn on the various obstacles are given later, under the description of the obstacles. A summary of the extra points required appears on page 4.
-The squares are numbered solely to avoid any confusion between those squares which require only one point to be occupied, and those which require more than one. All unoccupied numbered squares require only one point.
+The squares are numbered solely to avoid any confusion between those squares which require only one point to be occupied, and those which require more than one. 
+All unoccupied numbered squares require only one point.
 The players then bring Pawns from reserve on to the board-thus building up a chain of Pawns starting from the single Pawn in the centre of the Capital and advancing, in any direction they wish, towards the enemy Capital, and the enemy force.
 They may decide to advance along an easy route as quickly as possible in a single chain; they may decide to occupy obstacles as they proceed (from which the enemy will find it expensive to dislodge them): they may "double up" for safety—that is, thicken their line by grouping Pawns at a predecided spot, or they may branch out in a second direction of advance (which must remain connected at some point with the main body).
 A player may employ any formation he pleases, provided that the "basic rule" is observed.
@@ -28,14 +34,16 @@ When a player reaches this stage he will have some formation of his Pawns reachi
 He may now move his Pawns—according, of course, to his cards and always subject to the basic rule—from the rear (that is, from his Capital) or from the front, or from any point in his formation from which they can be taken without breaking the existing line, to any vacant square which is adjacent to any of his Pawns. If, for example, a player moves his rearmost Pawn to a vacant numbered square at the head of the column, he requires only one point to do so (unlike any other games played on squared boards in which pieces are moved over the board square by square). If the vacant square of his choice is not numbered, the move will cost him more points, according to the type of obstacle covered by that square.
 In this manner the players continue to move towards their objective.
 At no time must a player, by moving one of his Pawns, isolate one or a group of Pawns from the main body.
+They may decide to advance along an easy route as quickly as possible in a single chain; they may decide to occupy obstacles as they proceed (from which the enemy will find it expensive to dislodge them): they may "double up" for safety—that is, thicken their line by grouping Pawns at a predecided spot, or they may branch out in a second direction of advance (which must remain connected at some point with the main body).
+A player may employ any formation he pleases, provided that the "basic rule" is observed.
+So each player's force is deployed until no more Pawns are left in reserve.
+(b) AFTER ALL PAWNS HAVE BEEN BROUGHT INTO PLAY
+When a player reaches this stage he will have some formation of his Pawns reaching from his Capital City.
+He may now move his Pawns—according, of course, to his cards and always subject to the basic rule—from the rear (that is, from his Capital) or from the front, or from any point in his formation from which they can be taken without breaking the existing line, to any vacant square which is adjacent to any of his Pawns. If, for example, a player moves his rearmost Pawn to a vacant numbered square at the head of the column, he requires only one point to do so (unlike any other games played on squared boards in which pieces are moved over the board square by square). If the vacant square of his choice is not numbered, the move will cost him more points, according to the type of obstacle covered by that square.
+In this manner the players continue to move towards their objective.
+At no time must a player, by moving one of his Pawns, isolate one or a group of Pawns from the main body.
 
-
-
-
-
-
-
-
+OBSTACLES
 
 The obstacles are contained in the unnumbered squares and, excepting Towns and Cities, it costs more points to place a Pawn there and, once occupied, all obstacles—including Towns and Cities—cost the enemy even more points to capture.
 Mountains, Forests, Marshes (for each separate square), Grey squares surrounding each Capital, Opposite Banks of Rivers.
@@ -58,9 +66,7 @@ The Bridges shown on the board do not confer any advantage on either attacker or
 Each arm of the Deltas is treated as a River.
 The Sources of the Rivers.
 It will be seen that it is possible to pass by the
-sources of the Rivers without crossing. Thus one point is required from square 42-33 or from 42-34,
-
-but two points are required for the first Pawn to cross from 34-33 or from 43-33.
+sources of the Rivers without crossing. Thus one point is required from square 42-33 or from 42-34, but two points are required for the first Pawn to cross from 34-33 or from 43-33.
 Crossing the Seas.
 If a player wishes to advance (or retire) across the sea, he reaches a square adjacent to it and must then form an "Embarking Jetty" by placing a Pawn in an adjacent square in the sea. For this two points are required. He may then place a pawn on any square of the sea adjacent to the point where he wishes to disembark". The Pawn forms the "Disembarking Jetty" and requires three points.
 The next move is to "Disembark" a pawn on to a land square next to the jetty, and only one point is required for this move.
@@ -68,13 +74,16 @@ Although there is no chain of Pawns across the seas between the jetties, the jet
 Barrier.
 The line of a player's Pawns forms a Barrier which cannot be crossed by the forces of his opponent (see diagram).
 
+The next move is to "Disembark" a pawn on to a land square next to the jetty, and only one point is required for this move.
+Although there is no chain of Pawns across the seas between the jetties, the jetties themselves form the liaison in the whole formation, and must be maintained there for as long as the sea-crossing is part of the formation.
+Barrier.
+The line of a player's Pawns forms a Barrier which cannot be crossed by the forces of his opponent (see diagram).
 
+<diagram 1>
 
 Although Square No. 12 is unoccupied and diagonally adjacent to the Black Pawn in Square No. 16, Black cannot cross White's line to occupy it.
 
-
-
-
+HOW ENEMY PAWNS ARE CAPTURED
 
 A player may Capture his opponent's Pawns in three ways. The captured Pawns are immediately removed from the board and cannot be recovered or exchanged.
 (a) DIRECT CAPTURE
@@ -83,17 +92,20 @@ In capturing, as in any other move excepting the sea-crossing, the line of the a
 While there are still unused Pawns in reserve, it is one of these which must be brought up to effect the capture.
 Points Required to Capture Pawns
 If the enemy Pawn is—
-
-In a numbered square		2 points
-In a square on a Mountain, Marsh, Forest or Grey (Rampart) square		3 points
-In a numbered square on the opposite bank of a River which you have not crossed		3 points
-An embarking or disembarking jetty		3 points
-In a Town or Capital		4 points
-In a Mountain, Forest, or Town on the opposite bank of a River which you have not yet crossed		4 points
-
-
-
+	In a numbered square						2 points
+	In a square on a Mountain, Marsh,
+		Forest or Grey (Rampart) square			3 points
+	In a numbered square on the opposite
+	bank of a River which you have
+		not crossed								3 points
+	An embarking or disembarking jetty			3 points
+	In a Town or Capital						4 points
+	In a Mountain, Forest, or Town on
+		the opposite bank of a River
+		which you have not yet crossed			4 points
+		
 (b) CAPTURE BY BREAKING THE ENEMY'S LINE
+
 A player may advance upon and attack his opponent's line of Pawns at any point, and in the manoeuvring into positions ot attack and defence lies much of the interest and excitement ot the game.
 When a player succeeds in capturing an enemy Pawn, which, by its removal leaves a gap in his opponent's line, he also captures by this one move all the enemy Pawns cut off by the gap from their base. (The base always means the greater number of a player's Pawns.) Thus, on breaking his opponent's line into two separate groups, all the Pawns in the lesser group are considered captured and removed from the board. If there is an equal number of Pawns in each group, the taking player has the choice of which group he will capture and remove.
 Pawns in reserve are counted as if they were in the Capital and are captured with those on the board if they make up the lesser group.
@@ -101,21 +113,53 @@ Pawns in reserve are counted as if they were in the Capital and are captured wit
 (c) CAPTURE BY PINCER MOVEMENT
 (Optional rule for more advanced players)
 
+<diagram 2>
 
 Although, because of the "Barrier" rule, a player's forces cannot intersect his opponent's line, he may cut off from their base one or several of his opponent's Pawns by dividing his force and advancing upon his opponent's line from two sides.
 (The two jaws of the "Pincer" must always remain in contact at their base.) If the attacker can so place his Pawns that the two jaws of the Pincer Movement meet diagonally across the enemy line, then the enemy line is deemed to be cut at this point, although no Pawn was taken, and the enemy Pawns so cut off are captured and removed from the board.
 
+THE FINISH OF THE GAME
 
-The Game ends-
+The Game ends—
 (a) When either Capital is captured by occupation; or
 (b) When one player has captured all his opponent's Pawns.
 The player who finishes the game by either of the above means is the winner.
 
-
 ALTERNATIVE GAME
 If a longer game is desired, two players may play with 24 Pawns each, one player using the Green and White Pawns and the other using the Red and Black Pawns.
 
+RULES FOR FOUR PLAYERS
+
 Method of Play
+
 The four Capitals situated in the corners of the board are used, and the Black and White Capitals are treated as ordinary towns and the grey squares as normal obstacles.
 Thus the Yellow Capital is allied with Green, against the Blue and Red Capitals.
 White Pawns are used by the Yellow Capital and Black Pawns are used by the Blue Capitals.
+
+Each player uses 12 Pawns, therefore 3 Black and 3 White Pawns must be withdrawn.
+The rules for moving the Pawns and capturing are the same as for two players, except that players may cross their partner's line diagonally. The Pawns of each player are independent of those of his partner, e.g., although Yellow and Green are allies, Yellow plays his own Pawns as a self-contained force in which his Pawns must always remain in contact with each other, even though his force may sometimes be in contact with Green's forces.
+Each player may direct his forces against either of the enemies Pawns and Capitals and may even take both Capitals sucessively.
+
+The Pawns of a player, whose Capital has been captured are withdrawn from the board and his partner continues alone.
+
+THE FINISH OF THE GAME
+
+The Game ends—
+(a) When both Capitals of the same side are captured; or
+(b) When all the Pawns of either side are captured.
+The allies who end the game by either of the above means are the winners.
+
+RULES FOR THREE PLAYERS
+
+As for four players, except that one of the players controls two Capitals and its two sets of Pawns.
+
+SUMMARY OF POINTS REQUIRED TO OCCUPY A SQUARE
+													Unoccupied		Occupied by
+																	an Enemy Pawn
+Numbered square											1					2
+Unnumbered Squares										2					3
+Mountains, Forests, Marshes								2					3
+Grey Squares surrounding each Capital					2					3
+Opposite banks of Rivers (for the first Pawn)			2					3
+Mountains and Forests on the opposite bank of a River	3					4
+Towns and centre Squares of Capitals					1					4
