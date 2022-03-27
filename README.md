@@ -32,6 +32,6 @@ Photoshop files:<br/>
 
 ## Logo
 
-[Knight with white background](/knight-white.png)
+[Knight with white background](/img/knight-white.png)
 
-[Knight with transparent](/knight-transparent.png)
+[Knight with transparent](/img/knight-transparent.png)
