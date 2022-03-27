@@ -1,6 +1,7 @@
 # Battle Royal
 
 Free assets for the board game [Battle Royal](https://boardgamegeek.com/boardgame/32061/battle-royal).
+Includes rules, cards as png, pdf or psd.
 
 Photoshop files:<br/>
 [rules.psd](/rules.psd)<br/>
@@ -10,12 +11,12 @@ Photoshop files:<br/>
 
 ## Rules (English)
 
-[rules.pdf](/rules.pdf)<br/>
+[rules.pdf](/rules.pdf) (right-click - save as)<br/>
 [rules.txt](/rules.txt)
 
 ## Cards
 
-[print-and-play-cards.pdf](/cards.pdf)
+[print-and-play-cards.pdf](/cards.pdf) (right-click - save as)
 
 ### Image - Back
 ![card-back.png](img/card-back.png)
