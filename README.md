@@ -1,7 +1,8 @@
 # Battle Royal
 
-Free assets for the board game [Battle Royal](https://boardgamegeek.com/boardgame/32061/battle-royal).
-Includes rules, cards as png, pdf or psd.
+Free assets for the board game [Battle Royal](https://boardgamegeek.com/boardgame/32061/battle-royal). <br/>
+Includes rules, cards as png, pdf or psd.<br/>
+Feel free to download, modify and use any of these files as you please. 
 
 Photoshop files:<br/>
 [rules.psd](/rules.psd)<br/>
@@ -17,6 +18,11 @@ Photoshop files:<br/>
 ## Cards
 
 [print-and-play-cards.pdf](/cards.pdf) (right-click - save as)
+
+There are four pages: pages 1 and 3 are font, pages 2 and 4 are back.<br/>
+As I don't know the original card size, I picked a common standard size.<br/>
+The card size is: 2.5" x 3.5"  or  63.5mm x 88.9mm<br/>
+
 
 ### Image - Back
 ![card-back.png](img/card-back.png)
