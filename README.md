@@ -34,4 +34,4 @@ Photoshop files:<br/>
 
 [Knight with white background](/img/knight-white.png)
 
-[Knight with transparent](/img/knight-transparent.png)
+[Knight with transparent background](/img/knight-transparent.png)
