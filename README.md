@@ -17,9 +17,9 @@ Photoshop files:<br/>
 
 ## Board (work in progress)
 
-I started making a digital version of the board. (Almost one half is complete) 
-[new-board](https://raw.githubusercontent.com/Krokodyl/battle-royal/master/img/wip/map.jpg)
-[old-board](https://raw.githubusercontent.com/Krokodyl/battle-royal/master/img/wip/map-old.jpg)
+I started making a digital version of the board. (Almost one half is complete)<br/> 
+[new-board](https://raw.githubusercontent.com/Krokodyl/battle-royal/master/img/wip/map.jpg)<br/>
+[old-board](https://raw.githubusercontent.com/Krokodyl/battle-royal/master/img/wip/map-old.jpg)<br/>
 
 ## Cards
 
