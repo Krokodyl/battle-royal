@@ -15,6 +15,12 @@ Photoshop files:<br/>
 [rules.pdf](/rules.pdf) (right-click - save as)<br/>
 [rules.txt](/rules.txt)
 
+## Board (work in progress)
+
+I started making a digital version of the board. (Almost one half is complete) 
+[new-board](https://raw.githubusercontent.com/Krokodyl/battle-royal/master/img/wip/map.jpg)
+[old-board](https://raw.githubusercontent.com/Krokodyl/battle-royal/master/img/wip/map-old.jpg)
+
 ## Cards
 
 [print-and-play-cards.pdf](/cards.pdf) (right-click - save as)
@@ -42,3 +48,4 @@ The card size is: 2.5" x 3.5"  or  63.5mm x 88.9mm<br/>
 [Knight with white background](/img/knight-white.png)
 
 [Knight with transparent background](/img/knight-transparent.png)
+
